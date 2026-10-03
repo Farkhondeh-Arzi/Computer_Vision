@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE settings (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment variables 
+.env
+.env.local
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# My own project files
+*.pkl
+*.h5
+*.pt
+*.pth
